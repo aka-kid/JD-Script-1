@@ -11,7 +11,7 @@ Date: 2021/6/6 上午7:57
 cookies = ''
 #TG 推送
 # tg机器人token
-TG_BOT_TOKEN = ''
+TG_BOT_TOKEN = '1894464331:AAFMZ8IKkq9-NcoW5qoSLS7XRSDGYAeckoo'
 #tg用户id
 TG_USER_ID = ''
 TG_PROXY_IP = ''
