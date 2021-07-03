@@ -184,7 +184,7 @@ today = datetime.datetime.now().strftime('%Y-%m-%d')
 pwd = os.path.dirname(os.path.abspath(__file__)) + os.sep
 
 ######
-openCardBean = 0
+openCardBean = 5
 sleepNum = 0.0
 record = True
 onlyRecord = False
@@ -192,8 +192,8 @@ memory = True
 printlog = True
 isRemoteSid = True
 Concurrent = True
-TG_BOT_TOKEN = ''
-TG_USER_ID = ''
+TG_BOT_TOKEN = '1595731572:AAFMMr4AQkf9NinEzHPG_ajLTEqaP-jos-w'
+TG_USER_ID = '667775258'
 PUSH_PLUS_TOKEN = ''
 TG_PROXY_IP = ''
 TG_PROXY_PORT = ''
