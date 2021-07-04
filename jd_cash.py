@@ -16,9 +16,9 @@ cash_zlzh = ['jd_534ec524c0f9c', 'joycecheung123', 'jd_4b86ef18672bc', 'jd_4c3e9
 
 ### 推送参数设置
 # TG 机器人token
-TG_BOT_TOKEN = ''
+TG_BOT_TOKEN = '1894464331:AAFMZ8IKkq9-NcoW5qoSLS7XRSDGYAeckoo'
 # TG用户id
-TG_USER_ID = ''
+TG_USER_ID = '1811973021'
 # TG代理ip
 TG_PROXY_IP = ''
 # TG代理端口
